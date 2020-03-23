@@ -1,0 +1,44 @@
+{
+
+	"carTypes": [{
+			"name": "Porche",
+            "price": "$100,000",
+            "capacity": 2,
+            "features":["sunroofed","convertable"],
+			"image": "car-1.jpg"
+
+		},
+
+		{
+			"name": "Elantra",
+            "price": "$90,000",
+            "capacity": 4,
+            "features":["sunBullet proof","convertable"],
+			"image": "car-2.jpg"
+		},
+		{
+			"name": "B.M.W",
+            "price": "$80,000",
+            "capacity": 4,
+            "features":["sunroofed","automatic"],
+			"image": "car-3.jpg"
+		},
+		
+
+		{
+			"name": "Land Rover",
+            "price": "$70,000",
+            "capacity": 2,
+            "features":["manual","convertable"],
+			"image": "car-4.jpg"
+		},
+
+		{
+			"name": " Jetta",
+            "price": "$50,000",
+            "capacity": 5,
+            "features":["sunroofed","convertable","spacious"],
+			"image": "car-5.jpg"
+		}
+	]
+}
