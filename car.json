@@ -4,7 +4,7 @@
 			"name": "Porche",
             "price": "$100,000",
             "capacity": 2,
-            "features":["sunroofed","convertable,Bullet proof, Automatic parking system"],
+            "features":["sunroofed","convertable","Bullet proof"," Automatic parking system"],
 			"image": "car-1.jpg"
 
 		},
