@@ -4,7 +4,7 @@
 			"name": "Porche",
             "price": "$100,000",
             "capacity": 2,
-            "features":["sunroofed","convertable"],
+            "features":["sunroofed","convertable,Bullet proof, Automatic parking system"],
 			"image": "car-1.jpg"
 
 		},
@@ -13,7 +13,7 @@
 			"name": "Elantra",
             "price": "$90,000",
             "capacity": 4,
-            "features":["sunBullet proof","convertable"],
+            "features":["Bullet proof","convertable"],
 			"image": "car-2.jpg"
 		},
 		{
